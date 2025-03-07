@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Ad Blocker",
+  "version": "1.0",
+  "description": "Blocks ads on websites and YouTube.",
+  "icons": { "48": "icon.png", "128": "icon.png" },
+  "permissions": ["declarativeNetRequest", "declarativeNetRequestWithHostAccess"],
+  "host_permissions": ["*://*/*"],
+  "background": { "service_worker": "background.js" },
+  "action": { "default_popup": "popup.html" }
+}
