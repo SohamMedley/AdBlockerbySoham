@@ -1,1 +1,11 @@
 
+<svg width="40" height="40" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="100" cy="100" r="90" fill="#E53935" stroke="#B71C1C" stroke-width="8"/>
+    
+    <!-- Stop Symbol -->
+    <line x1="50" y1="100" x2="150" y2="100" stroke="white" stroke-width="20"/>
+    
+    <!-- "AD" Text -->
+    <text x="45" y="75" font-size="50" font-weight="bold" fill="white" font-family="Poppins, sans-serif">AD</text>
+</svg>
