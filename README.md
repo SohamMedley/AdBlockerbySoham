@@ -15,11 +15,6 @@ Say goodbye to annoying ads and enjoy a **clean, fast, and distraction-free** br
 
 ---
 
-## 📥 **Add to Extension**
-Click the button below to add Ad Blocker:  
-[![Add to Chrome](https://img.shields.io/badge/Add%20to-Chrome-red?style=for-the-badge&logo=googlechrome)](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID)  
-[![Add to Edge](https://img.shields.io/badge/Add%20to-Edge-black?style=for-the-badge&logo=microsoftedge)](https://microsoftedge.microsoft.com/addons/detail/YOUR_EXTENSION_ID)  
-
 > 📝 **Note:** If the extension is not available in the Chrome Web Store, follow the manual installation steps below.
 
 ---
